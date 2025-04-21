@@ -15,7 +15,7 @@ format for thetvapp.to = v(1-18).thetvapp.to/hls/(channel-name)/tracks-(v1-2, v1
 
 format for tvpass.org = tvpass.org/live/(channel-name)/(hd/sd definitions, CASE SENSITIVE!) (will redir to Subscription Nag when hd is defined at peak times)
 
-format for ppv.wtf = https://waw01-1gbe.fscdn.fun/(channel-name)/tracks-v1a1/mono.ts.m3u8
+format for ppv.wtf = waw01-1gbe.fscdn.fun/(channel-name)/tracks-v1a1/mono.ts.m3u8
 
 tracks-v1 = HD, no audio 
 tracks-v2 = SD, no audio 
