@@ -36,17 +36,21 @@ tracks-v2a1 = SD, audio
 | channel                  | found (mdy)   | mirrors	          | links             |
 | ------------------------ | ------------- | ------------------ | ----------------- |
 | ESPN                     | 4-21-25       | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
-| ESPN2                     | 4-21-25       | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.ts.m3u8|
+| ESPN2                    | 4-22-25       | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.ts.m3u8|
 | TNT (403)                | 4-21-25       | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8|
 | Sky Sports Premier League| 4-21-25       | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.ts.m3u8|
-| 24/7 S*y Sports Golf     | 29-11-17      | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.ts.m3u8|
-| 24/7 Cows                | 25-10-17      | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.ts.m3u8|
-| 24/7 Simpsons            | 02-11-17      | https://waw01-1gbe.fscdn.fun/thesimpsons/tracks-v1a1/mono.m3u8      | https://waw01-1gbe.fscdn.fun/thesimpsons/tracks-v1a1/mono.ts.m3u8|
-| 24/7 South Park          | 08-11-17      | https://waw01-1gbe.fscdn.fun/southpark/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/southpark/tracks-v1a1/mono.ts.m3u8|
-| North Korean News        | 14-11-17      | https://waw01-1gbe.fscdn.fun/nknews/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/nknews/tracks-v1a1/mono.ts.m3u8|
+| 24/7 S*y Sports Golf     | 4-21-25      | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.ts.m3u8|
+| 24/7 Cows                | 4-21-25      | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.ts.m3u8|
+| 24/7 Simpsons            | 4-21-25      | https://waw01-1gbe.fscdn.fun/thesimpsons/tracks-v1a1/mono.m3u8      | https://waw01-1gbe.fscdn.fun/thesimpsons/tracks-v1a1/mono.ts.m3u8|
+| 24/7 South Park          | 4-21-25      | https://waw01-1gbe.fscdn.fun/southpark/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/southpark/tracks-v1a1/mono.ts.m3u8|
+| North Korean News        | 4-21-25      | https://waw01-1gbe.fscdn.fun/nknews/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/nknews/tracks-v1a1/mono.ts.m3u8|
 
 # notes
 
+More work is currently being put into the ppv.wtf front because they have a WAY more unique way of storing .m3u8's (real .m3u8 is obfuscated thru VidEmbed, which is probably why they're so keen on everything being through there) and it's way harder.
+
 TNT 403's due to FlowStreams (and then ppv.wtf as it's basically the succesor to flowstreams) using Flussonic Media Server, which allows you to require Authorization for files.
+
+This makes sense as ppv.wtf has the highest quality TNT stream I know of, having pure 1920x1080.
 
 EVERYTHING in the "tnt" folder requires authentication, and other channels may have this protection.
