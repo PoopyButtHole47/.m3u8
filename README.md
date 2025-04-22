@@ -36,6 +36,7 @@ tracks-v2a1 = SD, audio
 | channel                  | found (mdy)   | mirrors	          | links             |
 | ------------------------ | ------------- | ------------------ | ----------------- |
 | ESPN                     | 4-21-25       | nan	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
+| TNT (403)                | 4-21-25       | nan	    | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8|
 | Sky Sports Premier League| 4-21-25       | nan	    | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.ts.m3u8|
 | 24/7 S*y Sports Golf     | 29-11-17      | nan	    | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.ts.m3u8|
 | 24/7 Cows                | 25-10-17      | nan	    | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.ts.m3u8|
