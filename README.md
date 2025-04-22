@@ -15,7 +15,7 @@ format for thetvapp.to = v(1-18).thetvapp.to/hls/(channel-name)/tracks-(v1-2, v1
 
 format for tvpass.org = tvpass.org/live/(channel-name)/(hd/sd definitions, CASE SENSITIVE!) (will redir to Subscription Nag when hd is defined at peak times)
 
-format for ppv.wtf = waw01-1gbe.fscdn.fun/(channel-name)/tracks-v1a1/mono.ts.m3u8
+format for ppv.wtf = waw01-1gbe.fscdn.fun/(channel-name, CASE SENSITIVE!)/tracks-v1a1/mono.ts.m3u8
 
 tracks-v1 = HD, no audio 
 tracks-v2 = SD, no audio 
@@ -36,6 +36,7 @@ tracks-v2a1 = SD, audio
 | channel                  | found (mdy)   | mirrors	          | links             |
 | ------------------------ | ------------- | ------------------ | ----------------- |
 | ESPN                     | 4-21-25       | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
+| ESPN2                     | 4-21-25       | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.ts.m3u8|
 | TNT (403)                | 4-21-25       | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8|
 | Sky Sports Premier League| 4-21-25       | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.ts.m3u8|
 | 24/7 S*y Sports Golf     | 29-11-17      | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.ts.m3u8|
@@ -43,3 +44,9 @@ tracks-v2a1 = SD, audio
 | 24/7 Simpsons            | 02-11-17      | https://waw01-1gbe.fscdn.fun/thesimpsons/tracks-v1a1/mono.m3u8      | https://waw01-1gbe.fscdn.fun/thesimpsons/tracks-v1a1/mono.ts.m3u8|
 | 24/7 South Park          | 08-11-17      | https://waw01-1gbe.fscdn.fun/southpark/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/southpark/tracks-v1a1/mono.ts.m3u8|
 | North Korean News        | 14-11-17      | https://waw01-1gbe.fscdn.fun/nknews/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/nknews/tracks-v1a1/mono.ts.m3u8|
+
+# notes
+
+TNT 403's due to FlowStreams (and then ppv.wtf as it's basically the succesor to flowstreams) using Flussonic Media Server, which allows you to require Authorization for files.
+
+EVERYTHING in the "tnt" folder requires authentication, and other channels may have this protection.
