@@ -38,6 +38,7 @@ tracks-v2a1 = SD, audio
 | ESPN                     | 4-21-25       | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
 | ESPN2                    | 4-22-25       | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.ts.m3u8|
 | TNT (403)                | 4-21-25       | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8|
+| NBA TV (notes)           | 4-23-25       | https://waw01-1gbe.fscdn.fun/nbatv/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/nbatv/tracks-v1a1/mono.ts.m3u8|
 | Sky Sports Premier League| 4-21-25       | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.ts.m3u8|
 | 24/7 S*y Sports Golf     | 4-21-25      | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.ts.m3u8|
 | 24/7 Cows                | 4-21-25      | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.ts.m3u8|
@@ -54,3 +55,5 @@ TNT 403's due to FlowStreams (and then ppv.wtf as it's basically the succesor to
 This makes sense as ppv.wtf has the highest quality TNT stream I know of, having pure 1920x1080.
 
 EVERYTHING in the "tnt" folder requires authentication, and other channels may have this protection.
+
+NBA TV **exists** (see waw01-1gbe.fscdn.fun/nbatv/preview.jpg), but .m3u8 is either named differently or doesnt exist?
