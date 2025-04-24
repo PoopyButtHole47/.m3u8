@@ -50,10 +50,10 @@ tracks-v2a1 = SD, audio
 
 More work is currently being put into the ppv.wtf front because they have a WAY more unique way of storing .m3u8's (real .m3u8 is obfuscated thru VidEmbed, which is probably why they're so keen on everything being through there) and it's way harder.
 
-TNT 403's due to FlowStreams (and then ppv.wtf as it's basically the succesor to flowstreams) using Flussonic Media Server, which allows you to require Authorization for files.
+TNT 403's due to FlowStreams (and then ppv.wtf as it's basically the succesor to flowstreams) using **Flussonic Media Server**, which allows you to require Authorization for files.
 
 This makes sense as ppv.wtf has the highest quality TNT stream I know of, having pure 1920x1080.
 
 EVERYTHING in the "tnt" folder requires authentication, and other channels may have this protection.
 
-NBA TV **exists** (see waw01-1gbe.fscdn.fun/nbatv/preview.jpg), but .m3u8 is either named differently or doesnt exist?
+NBA TV **exists** (see waw01-1gbe.fscdn.fun/nbatv/preview.jpg), and the URL is **correct**, but can't access it (possibly needs certain referer, 403?)
