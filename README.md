@@ -35,7 +35,7 @@ tracks-v2a1 = SD, audio
 # ppv.wtf/ppv.land/flowstreams or whatever name they use at the moment
 | channel                  | found (mdy)   | mirrors	          | links             |
 | ------------------------ | ------------- | ------------------ | ----------------- |
-| ESPN                     | 4-21-25       | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
+| ESPN (403)               | 4-21-25       | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
 | ESPN2                    | 4-22-25       | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.ts.m3u8|
 | TNT (403)                | 4-21-25       | https://jfk01-10gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8	    | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8|
 | NBA TV (notes)           | 4-23-25       | https://jfk01-10gbe.fscdn.fun/nbatv/tracks-v1a1/mono.ts.m3u8	    | https://waw01-1gbe.fscdn.fun/nbatv/tracks-v1a1/mono.ts.m3u8|
@@ -65,5 +65,7 @@ EVERYTHING in the "tnt" folder requires authentication, and other channels may h
 NBA TV **exists** (see waw01-1gbe.fscdn.fun/nbatv/preview.jpg), and the URL is **correct**, but can't access it (possibly needs certain referer, 403?)
 
 As of 4-24-25, a **new mirror** has been found for TNT and NBA TV. **jfk01-10gbe.fscdn.fun** has been found, but it is under the same restrictions as **waw01-1gbe.fscdn.fun**. From info I have gathered, it only has TNT and NBA TV. **cph01-10gbe.fscdn.fun** has been found aswell, but currently no URLs have been found for it.
+
+As of 4-25-25, ppv.wtf cucked the ESPN stream LMFAO fuck you too mark cuckerburg
 
 *We aren't 100% sure yet how wearechecking.xyz categorizes channels, stay with us lmao
