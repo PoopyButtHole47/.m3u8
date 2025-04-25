@@ -37,8 +37,9 @@ tracks-v2a1 = SD, audio
 | ------------------------ | ------------- | ------------------ | ----------------- |
 | ESPN                     | 4-21-25       | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
 | ESPN2                    | 4-22-25       | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.ts.m3u8|
-| TNT (403)                | 4-21-25       | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8|
-| NBA TV (notes)           | 4-23-25       | https://waw01-1gbe.fscdn.fun/nbatv/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/nbatv/tracks-v1a1/mono.ts.m3u8|
+| TNT (403)                | 4-21-25       | https://jfk01-10gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8	    | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8|
+| NBA TV (notes)           | 4-23-25       | https://jfk01-10gbe.fscdn.fun/nbatv/tracks-v1a1/mono.ts.m3u8	    | https://waw01-1gbe.fscdn.fun/nbatv/tracks-v1a1/mono.ts.m3u8|
+| ABC                      | 4-25-25       | https://waw01-1gbe.fscdn.fun/abc/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/abc/tracks-v1a1/mono.ts.m3u8|
 | Sky Sports Premier League| 4-21-25       | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportspremierleague/tracks-v1a1/mono.ts.m3u8|
 | 24/7 S*y Sports Golf     | 4-21-25      | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/skysportsgolf/tracks-v1a1/mono.ts.m3u8|
 | 24/7 Cows                | 4-21-25      | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/cows/tracks-v1a1/mono.ts.m3u8|
@@ -57,3 +58,5 @@ This makes sense as ppv.wtf has the highest quality TNT stream I know of, having
 EVERYTHING in the "tnt" folder requires authentication, and other channels may have this protection.
 
 NBA TV **exists** (see waw01-1gbe.fscdn.fun/nbatv/preview.jpg), and the URL is **correct**, but can't access it (possibly needs certain referer, 403?)
+
+As of 4-24-25, a **new mirror** has been found for TNT and NBA TV. **jfk01-10gbe.fscdn.fun** has been found, but it is under the same restrictions as **waw01-1gbe.fscdn.fun**. From info I have gathered, it only has TNT and NBA TV. **cph01-10gbe.fscdn.fun** has been found aswell, but currently no URLs have been found for it.
