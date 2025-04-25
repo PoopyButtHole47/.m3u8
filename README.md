@@ -47,6 +47,11 @@ tracks-v2a1 = SD, audio
 | 24/7 South Park          | 4-21-25      | https://waw01-1gbe.fscdn.fun/southpark/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/southpark/tracks-v1a1/mono.ts.m3u8|
 | North Korean News        | 4-21-25      | https://waw01-1gbe.fscdn.fun/nknews/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/nknews/tracks-v1a1/mono.ts.m3u8|
 
+# wearechecking*
+| channel                  | found (mdy)   | mirrors	          | links             |
+| ------------------------ | ------------- | ------------------ | ----------------- |
+| ESPN?                    | 4-25-25       | https://4.thepotatosman.xyz/hls/0/stream.m3u8	    | https://4.thepotatosman.xyz/hls/0/stream.m3u8|
+
 # notes
 
 More work is currently being put into the ppv.wtf front because they have a WAY more unique way of storing .m3u8's (real .m3u8 is obfuscated thru VidEmbed, which is probably why they're so keen on everything being through there) and it's way harder.
@@ -60,3 +65,5 @@ EVERYTHING in the "tnt" folder requires authentication, and other channels may h
 NBA TV **exists** (see waw01-1gbe.fscdn.fun/nbatv/preview.jpg), and the URL is **correct**, but can't access it (possibly needs certain referer, 403?)
 
 As of 4-24-25, a **new mirror** has been found for TNT and NBA TV. **jfk01-10gbe.fscdn.fun** has been found, but it is under the same restrictions as **waw01-1gbe.fscdn.fun**. From info I have gathered, it only has TNT and NBA TV. **cph01-10gbe.fscdn.fun** has been found aswell, but currently no URLs have been found for it.
+
+*We aren't 100% sure yet how wearechecking.xyz categorizes channels, stay with us lmao
