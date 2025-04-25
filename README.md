@@ -35,7 +35,7 @@ tracks-v2a1 = SD, audio
 # ppv.wtf/ppv.land/flowstreams or whatever name they use at the moment
 | channel                  | found (mdy)   | mirrors	          | links             |
 | ------------------------ | ------------- | ------------------ | ----------------- |
-| ESPN (403)               | 4-21-25       | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
+| ESPN (720p) (403)        | 4-21-25       | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/espn/tracks-v1a1/mono.ts.m3u8|
 | ESPN2                    | 4-22-25       | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.m3u8	    | https://waw01-1gbe.fscdn.fun/ESPN2/tracks-v1a1/mono.ts.m3u8|
 | TNT (403)                | 4-21-25       | https://jfk01-10gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8	    | https://waw01-1gbe.fscdn.fun/tnt/tracks-v1a1/mono.ts.m3u8|
 | NBA TV (notes)           | 4-23-25       | https://jfk01-10gbe.fscdn.fun/nbatv/tracks-v1a1/mono.ts.m3u8	    | https://waw01-1gbe.fscdn.fun/nbatv/tracks-v1a1/mono.ts.m3u8|
