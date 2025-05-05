@@ -3,7 +3,7 @@
 
 ## Usage & Other information.
 
-NEWS: **HI PPV.WTF. :) I NOTICED YOU TOOK DOWN EVERY SINGLE WEBSITE, SO YOU KNOW ABOUT THIS. IF YOU GUYS DIDNT TRY SO HARD I WOULDNT BE DOING THIS. STOP TRYING SO HARD PLS KTHXBAI**
+NEWS: **lol all ppv.wtf website are down LMNAO**
 
 vod.ppv.wtf is the vod index, no cloaking is used for obvious reasons
 
