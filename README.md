@@ -5,6 +5,10 @@
 
 NEWS: **HI PPV.WTF. :) I NOTICED YOU TOOK DOWN EVERY SINGLE WEBSITE, SO YOU KNOW ABOUT THIS. IF YOU GUYS DIDNT TRY SO HARD I WOULDNT BE DOING THIS. STOP TRYING SO HARD PLS KTHXBAI**
 
+vod.ppv.wtf is the vod index, no cloaking is used for obvious reasons
+
+keep eyes on **poocloud.in**, not only hosts thumbs but has weird node subdomains aswell, probably where they host streams as nbatv and tnt still exist in the thumbs subdomain
+
 Credits: google chrome network tab
 
 If you wish to contribute anything that isn't listed here, DM PoopyButtHole47 or Email me @ placeholder
