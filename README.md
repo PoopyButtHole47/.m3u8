@@ -3,6 +3,8 @@
 
 ## Usage & Other information.
 
+NEWS: **HI PPV.WTF. :) I NOTICED YOU TOOK DOWN EVERY SINGLE WEBSITE, SO YOU KNOW ABOUT THIS. IF YOU GUYS DIDNT TRY SO HARD I WOULDNT BE DOING THIS. STOP TRYING SO HARD PLS KTHXBAI**
+
 Credits: google chrome network tab
 
 If you wish to contribute anything that isn't listed here, DM PoopyButtHole47 or Email me @ placeholder
