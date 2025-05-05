@@ -3,7 +3,7 @@
 
 ## Usage & Other information.
 
-NEWS: **lol all ppv.wtf website are down LMNAO**
+NEWS: **hello mark zuckerburg we are very sorry sar please forgive ;(**
 
 vod.ppv.wtf is the vod index, no cloaking is used for obvious reasons
 
